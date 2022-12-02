@@ -1,0 +1,82 @@
+.fon{
+    background-color: darkgreen;
+}
+.conteiner{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    padding: 0 15px;
+    width: 1200px;
+}
+.card{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+}
+.nakleika{
+    font-size: 22px;
+    padding-left: 40px;
+    color: aliceblue;
+    background-image: url(../img/Desktop\ -\ 39.png);
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 45px;
+    padding-bottom: 5px;
+}
+.nakleika-2{
+    font-family: 22px;
+    padding-left: 40px;
+    color: aliceblue;
+    background-image: url(../img/Desktop\ -\ 39.png);
+    background-repeat: no-repeat;
+    margin-left: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+    padding-bottom: 10px;
+    margin-bottom: 16px;
+}
+.nakleika-3{
+    font-family: 22px;
+    padding-left: 40px;
+    color: rgb(255, 253, 253);
+    background-image: url(../img/Desktop\ -\ 39.png);
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 45px;
+    padding-bottom: 6px;
+}
+.info{
+    font-size: 22px;
+    margin-left: 40px;
+}
+.text{
+    font-size: 22px;
+    color: #000;
+    padding-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card-fon2{
+    background-color: darkred;
+}
+.link{
+    margin-top: auto;
+    margin-left: auto;
+    padding-right: 28px;
+}
+.conteiner{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.boxs{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(161, 86, 252);
+    padding: 30px;
+}
+.box{
+    width: 30%;
+    text-align: center;
+    background-color: gold;
+    border: #000;
+}
+
